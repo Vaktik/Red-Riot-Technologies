@@ -1,0 +1,60 @@
+form ul li label {
+	float:left;
+	clear:left;
+	width:100px;
+	text-align:left;
+	margin-right:10px;
+	font-size:14px;
+	font-family:Veranda, Arial, san-serif;
+}
+	
+form ul li {
+	list-style-type:none;
+	margin-bottom:5px;
+}
+form ul li input,select,span{
+	float:left;
+	margin-bottom:10px;
+}
+form ul li textarea {
+	float:left;
+	width:350px;
+	height:150px;
+    
+}
+[type="submit"]{
+	float:left;
+	font-size:18px;
+	margin:80px 0 0 -350px;
+}
+[type="button"]{
+	float:left;
+	font-size:18px;
+	margin:80px 0 0 -350px;
+}
+[type = "reset"]{
+	float:left;
+	font-size: 18px;
+	margin: 80px 0 0 -80px;
+}
+button{
+	float:left;
+	font-size: 18px;
+	margin: 80px 0 0 -80px;
+}
+
+h1{
+    text-align: center;
+} 
+fieldset{
+	width:500px;
+	  display:block;
+	  margin-left: 2px;
+	  margin-right: 2px;
+	  border: 20px groove (internal value);
+	  border-radius: 10px;
+	}
+
+.center{
+	margin:200px 0 0 275px;
+}

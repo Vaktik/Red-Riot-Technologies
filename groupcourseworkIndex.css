@@ -1,0 +1,147 @@
+
+.container{
+    width:100%;
+    margin:auto;
+	font-size:14px;
+	height:1000px;
+}
+.header{
+    background:#b30000;
+    width:100%;
+    text-align:center;
+    height:250px;
+    padding-bottom:1px;
+}
+
+.nav{
+	height:50px;
+	background-color:#b30000;
+	font-size:15px;
+}
+
+
+
+a:visited{color:blue;}
+a:link{
+	margin-top:10px;
+	background-color:#faebd7;
+	border:none;
+	color:#faebd7;
+	padding: 2px 15px;
+	text-align: center;
+	text-decoration:none;
+	font-size:16px;
+	display:inline-block;
+}
+a:hover,a:active {
+	background-color:#b30000;
+}
+
+
+
+
+
+.content{
+    height:2000px;
+    background:#000000;
+    float:left;
+    width:10%;
+    text-align:center;
+}
+a:visited{
+    color:black;
+}
+a:link{
+    color:black;
+    font-size:24px;
+    display:inline;
+}
+.body{
+    height:2000px;
+    float:left;
+    width:80%;
+    text-align:left;
+    font-size:14px;
+    background-color:#faebd7;
+   
+}
+.nextcontent{
+    height:2000px;
+    float:left;
+    width:10%;
+    background-color:#000000;
+}
+.footbottom{
+    height:80px;
+    background:#b30000;
+    float:left;
+    width:100%;
+    text-align:center;
+    font-size:20px;
+    color:black;
+    padding:5px;
+}
+p{line-height: 1.5em;}
+li{line-height: 1.7em;
+font-size: 15px;
+}
+.p{margin-left:5px;
+margin-right:5px;}
+.bodySP{
+
+height:800px;
+font-size:15px;
+background-color:#faebd7;
+padding:10px;
+background:#faebd7;
+width:70%;
+display:flex;
+}
+.bodySc1{
+margin-left:100px;
+width: 40%;
+height: 475px;
+float:left;
+background:#faebd7;
+font-size:15px;
+}
+.bodySc2{
+margin-left:150px;
+width:40%;
+height:475px;
+float:right;
+background:#faebd7;
+font-size:15px;
+}
+
+
+.bodybelow{
+height:800px;
+font-size:15px;
+background-color:#faebd7;
+padding:10px;
+background:#faebd7;
+width:70%;
+display:flex;
+}
+.bodyb1{
+margin-left:100px;
+width: 40%;
+height: 475px;
+float:left;
+background:#faebd7;
+font-size:15px;
+}
+.bodyb2{
+margin-left:190px;
+width:40%;
+height:475px;
+float:right;
+background:#faebd7;
+font-size:15px;
+}
+
+
+.img1 {
+width:300px; height: 150px;
+}
